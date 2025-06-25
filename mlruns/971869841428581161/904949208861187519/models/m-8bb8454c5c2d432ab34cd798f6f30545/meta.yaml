@@ -1,0 +1,10 @@
+artifact_location: file:///d:/ann%20end-to-end%20project/mlruns/971869841428581161/904949208861187519/models/m-8bb8454c5c2d432ab34cd798f6f30545/artifacts
+creation_timestamp: 1750808435914
+experiment_id: '904949208861187519'
+last_updated_timestamp: 1750808454317
+model_id: m-8bb8454c5c2d432ab34cd798f6f30545
+model_type: null
+name: final_model
+source_run_id: f9dc1984a2e64e069fe29ac00740911b
+status: 2
+status_message: null
